@@ -1,3 +1,9 @@
 body {
   background-color: white;
 }
+ul.video-list {
+  list-style: none;
+}
+ul.video-list span.glyphicon {
+  cursor: pointer;
+}
